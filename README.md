@@ -7,7 +7,7 @@ Alke Wallet es una aplicación web que simula una **wallet- billetera digital**,
 
 ---
 
-## 📌 Objetivo del proyecto
+##  Objetivo del proyecto
 
 Desarrollar una interfaz Front-End funcional, segura y fácil de usar que permita:
 
@@ -20,7 +20,7 @@ Desarrollar una interfaz Front-End funcional, segura y fácil de usar que permit
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **HTML5** – Estructura semántica
 - **CSS3** – Estilos personalizados
@@ -54,7 +54,7 @@ Proyecto WalletAlke/
 
 ---
 
-## 🔐 inicio de sesión
+## inicio de sesión
 
 - Los usuarios pueden **crear una cuenta** y luego iniciar sesión. Formulario basico
 - Las credenciales se validan mediante JavaScript.
@@ -119,7 +119,7 @@ Proyecto WalletAlke/
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Descargar o clonar el repositorio.
 2. Abrir el archivo `login.html` en el navegador.
@@ -130,7 +130,7 @@ Proyecto WalletAlke/
 
 ---
 
-## ✅ Estado del proyecto
+##  Estado del proyecto
 
 ✔ Cumple con todos los requerimientos del Módulo 2  
 ✔ Funcional y estable  
@@ -140,7 +140,7 @@ Proyecto WalletAlke/
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Proyecto desarrollado por **Sebastián Sepúlveda**  
 Evaluación Integradora – Módulo 2  
